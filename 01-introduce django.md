@@ -1,5 +1,6 @@
 # 介绍
 世上一切的不幸都是由当事人能力不足引起的,
+![千与千寻](https://tse2.mm.bing.net/th?id=OIP.Glfx0vY2PygLLTXOstSQKgHaEo&pid=Api)
 >官网中文文档：http://docs.30c.org/djangobook2/chapter05/
 ## django属性
 Django的MTV模式本质上与MVC模式没有什么差别
